@@ -1,0 +1,24 @@
+{
+  "name": "content-inject-plugin",
+  "version": "1.0.0",
+  "description": "a plugin for html-webpack-plugin，which can inject static file content into html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygtzz/content-inject-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "inject",
+    "file"
+  ],
+  "author": "ygtzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ygtzz/content-inject-plugin/issues"
+  },
+  "homepage": "https://github.com/ygtzz/content-inject-plugin#readme"
+}
